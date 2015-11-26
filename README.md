@@ -1,3 +1,3 @@
 ## My Learn Note
 
-各种学习笔记 
+[Python学习笔记](http://github.com/winux404/note/blob/master/python/00.index.md)
